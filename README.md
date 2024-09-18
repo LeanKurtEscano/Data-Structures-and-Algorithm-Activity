@@ -8,19 +8,19 @@
 
 3. Implement Searching algorithms:
 
--Linear Search
+   - Linear Search
 
--Binary Search
+   - Binary Search
 
 4. Implement Sorting algorithms:
 
--Bubble Sort
+   - Bubble Sort
 
--Selection Sort
+   - Selection Sort
 
--Merge Sort
+   - Merge Sort
 
--Quick Sort
+   - Quick Sort
 
 5.Displays the final result to user base on the Algorithm selected.
 
